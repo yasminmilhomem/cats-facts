@@ -29,7 +29,7 @@ const Body = () => {
   return (
     <div className="cats-facts">
       <p>{fact}</p>
-      <button onClick={getAnotherFact}>Get Another Fact</button>
+      <button onClick={getAnotherFact}>Get a new fact!</button>
     </div>
   );
 };
