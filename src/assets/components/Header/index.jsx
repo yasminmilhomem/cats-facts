@@ -1,6 +1,6 @@
-import './Head.css';
+import './styles.css';
 
-function Head() {
+function Header() {
   return (
     <div className="head">
         <h1>Cats Facts</h1>
@@ -9,4 +9,4 @@ function Head() {
   )
 }
 
-export default Head;
+export default Header;

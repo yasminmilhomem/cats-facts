@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
-import './Body.css'
+import './styles.css'
 
-const Body = () => {
+const CatsFacts = () => {
   const [fact, setFact] = useState('');
 
   const fetchFact = async () => {
@@ -34,4 +34,4 @@ const Body = () => {
   );
 };
 
-export default Body;
+export default CatsFacts;

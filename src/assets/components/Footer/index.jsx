@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import Lottie from "lottie-web";
-import animationData from './cat.json';
-import './Footer.css';
+import animationData from '../../cat.json';
+import './styles.css';
 
 function Footer() {
   const container = useRef(null)
