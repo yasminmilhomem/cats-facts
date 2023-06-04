@@ -26,7 +26,7 @@ The `fetchFact` function fetches a fact from the Cat Fact API and updates the st
 
 The component renders a `<div>` with the fact and a button.
 
-
+<!--- 
 #### Usage
 
 ```javascript
@@ -56,7 +56,7 @@ The component renders a `<div>` with the fact and a button.
 
 ```
 
-
+-->
 
 ### LottieFiles
 To have a cool animation, I used LottieFiles in the `Footer` component and it integrates LottieFiles for animating a cat.
