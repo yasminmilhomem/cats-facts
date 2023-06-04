@@ -1,0 +1,13 @@
+.cat-animation {
+    display: flex;
+    margin-top: 3rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: auto;
+    margin: auto;
+    width: 20%;
+}

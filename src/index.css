@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+:root {
+  --primary-blue: #282D3C;
+  --primary-gray: #D9DEEC;
+  --secondary-blue1: #33394E;
+  --secondary-blue2: #3C3D6E;
+  --secondary-blue3: #4F518D;
+  --primary-font: 'Prata', system-ui, 'Times New Roman', Times, serif;
+  --secondary-font: 'Prata', system-ui, 'Times New Roman', Times, serif;
+}
+
+* {
+  font-family: var(--secondary-font);
+  background-color: var(--primary-blue);
+  color: var(--primary-gray);
+}

@@ -1,0 +1,28 @@
+.cats-facts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+.cats-facts p {
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.6rem;
+    width: 90vh;
+}
+
+.cats-facts button {
+    width: 15rem;
+    height: auto;
+    background: #3C3D6E;
+    border-radius: 1rem;
+    border-style: none;
+    cursor: pointer;
+    font-size: 1.3rem;
+    line-height: 3rem;
+    color: var(--primary-gray);
+}
+
